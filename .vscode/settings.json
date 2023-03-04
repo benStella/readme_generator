@@ -1,6 +1,6 @@
 {
     "C_Cpp.errorSquiggles": "enabled",
-    "editor.fontSize": 20,
+    "editor.fontSize": 14,
     "editor.tabSize": 4,
     "editor.formatOnPaste": false,
     "editor.formatOnSave": true,
