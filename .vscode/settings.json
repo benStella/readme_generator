@@ -4,5 +4,8 @@
     "editor.tabSize": 4,
     "editor.formatOnPaste": false,
     "editor.formatOnSave": true,
-    "editor.minimap.scale": 1
+    "editor.minimap.scale": 1,
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
 }
