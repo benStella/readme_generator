@@ -64,4 +64,5 @@ string generateReadme()
                << credits;
         readme.close();
     }
+    cout << "readme created" << endl;
 }
